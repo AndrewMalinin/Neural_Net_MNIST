@@ -2,7 +2,7 @@
 import numpy, scipy.special, matplotlib.pyplot, csv, math
 from time import time
 
-
+# Создано после прочтения книги Тарика Рашида "Создаём нейронную сеть"
 def load_file(file_path):
     
     # Открываем файл с данными и копируем всё в data_list
